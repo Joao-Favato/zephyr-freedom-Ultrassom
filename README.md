@@ -5,10 +5,15 @@ Para começar a implementação do sensor ultrassom, comecei pela criação do t
 
 <img width="394" height="700" alt="TesteDoTrigger" src="evidencias\TesteTrigger.gif" />
 
-##2. Configuração do Input Capture
+## 2. Configuração do Input Capture
 Para testar a saida no serial monitor foi configurado o pino pta12 para printar o momento de detecção do pulso de subida, por meio do input capture. Para validar este codigo nós estabelecemos uma conexao por meio de um fio do tipo macho-macho entre o pino pta12 e o pino pwm ptd3.
 
 <img width="394" height="700" alt="TesteDoTrigger" src="evidencias\Gravação de Tela 2026-05-04 153810.gif" />
+
+## 3. Medição da largura do pulso do PWM
+Verificamos a frequência do CLOCK para podermos calcular corretamente a largura e o tempo do pulso PWM, calculados que o tempo equivalente a 10 microsegundos é de 485 ticks.
+
+<img width="394" height="700" alt="TesteDoTrigger" src="evidencias\Gravação de Tela 2026-05-04 165234 (1).gif" />
 
 
 
