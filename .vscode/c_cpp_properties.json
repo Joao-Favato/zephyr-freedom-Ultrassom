@@ -17,6 +17,7 @@
                 "C:/Users/joaof/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/cmsis/CMSIS/Core/Include",
                 "C:/Users/joaof/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/devices/MKL25Z4",
                 "C:/Users/joaof/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/drivers/kinetis",
+                "C:/Users/joaof/OneDrive/Documentos/PlatformIO/Projects/260428-210327-zephyr-blink/lib/ultrassom",
                 ""
             ],
             "browse": {
@@ -31,6 +32,7 @@
                     "C:/Users/joaof/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/cmsis/CMSIS/Core/Include",
                     "C:/Users/joaof/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/devices/MKL25Z4",
                     "C:/Users/joaof/.platformio/packages/framework-zephyr@2.20701.220422/_pio/modules/hal/nxp/mcux/drivers/kinetis",
+                    "C:/Users/joaof/OneDrive/Documentos/PlatformIO/Projects/260428-210327-zephyr-blink/lib/ultrassom",
                     ""
                 ]
             },

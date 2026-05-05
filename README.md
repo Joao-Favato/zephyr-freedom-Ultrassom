@@ -15,6 +15,11 @@ Verificamos a frequência do CLOCK para podermos calcular corretamente a largura
 
 <img width="394" height="700" alt="TesteDoTrigger" src="evidencias\Gravação de Tela 2026-05-04 165234 (1).gif" />
 
+## 4. Medição da distância e transformação em biblioteca
+Depois de ajustar os valores de prescaler e TPM Module, nessa etapa foi feita a conversão dos tempos dos pulsos para distância em centímetros. Além disso, depois da verificação do funcionamento do código foi feita a transformação em biblioteca, a fim de facilitar a implementação da função de medir a distância no projeto do carrinho seguidor de linha. Segue evidência de medição.
+
+<img width="394" height="700" alt="TesteDoTrigger" src="evidencias\TesteUltrassom (1).gif" />
+
 
 
 
